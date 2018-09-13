@@ -10,6 +10,7 @@ namespace ConsoleEz
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
